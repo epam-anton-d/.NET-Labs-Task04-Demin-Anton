@@ -1,0 +1,6 @@
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Task2\bin\Debug\Task2.exe.config
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Task2\bin\Debug\Task2.exe
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Task2\bin\Debug\Task2.pdb
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Task2\obj\Debug\Task2.exe
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Task2\obj\Debug\Task2.pdb

@@ -1,0 +1,12 @@
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Антон_Демин_OOP\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Антон_Демин_OOP\bin\Debug\Антон_Демин_OOP.exe.config
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Антон_Демин_OOP\bin\Debug\Антон_Демин_OOP.exe
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Антон_Демин_OOP\bin\Debug\Антон_Демин_OOP.pdb
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Антон_Демин_OOP\obj\Debug\Антон_Демин_OOP.exe
+G:\Институт\EPAM\Задание 4. ООП\Антон_Демин_OOP\Антон_Демин_OOP\obj\Debug\Антон_Демин_OOP.pdb
+C:\EPAM\Task_4_OOP\Anton_Demin_OOP\Антон_Демин_OOP\bin\Debug\Антон_Демин_OOP.exe.config
+C:\EPAM\Task_4_OOP\Anton_Demin_OOP\Антон_Демин_OOP\obj\Debug\Антон_Демин_OOP.exe
+C:\EPAM\Task_4_OOP\Anton_Demin_OOP\Антон_Демин_OOP\obj\Debug\Антон_Демин_OOP.pdb
+C:\EPAM\Task_4_OOP\Anton_Demin_OOP\Антон_Демин_OOP\bin\Debug\Антон_Демин_OOP.exe
+C:\EPAM\Task_4_OOP\Anton_Demin_OOP\Антон_Демин_OOP\bin\Debug\Антон_Демин_OOP.pdb
+C:\EPAM\Task_4_OOP\Anton_Demin_OOP\Антон_Демин_OOP\obj\Debug\Task1.csprojResolveAssemblyReference.cache
